@@ -1,10 +1,11 @@
 # Ok Theme Vscode
 
-  # How to ⚒️
+  # How to ⚒️ 
+  ##### (Linux, idk how to in Windows)
   1. Clone the repositorie
   `git clone https://github.com/itsook/ok-vscode-theme/ ok-theme`
-  2. Copy the theme to extension directories (linux)
-  `cp -r ok-theme/ ~/.vscode/extensions/
+  2. Copy the theme to extension directories
+  `cp -r ok-theme/ ~/.vscode/extensions/`
 
 ## Showcase 📸
 
