@@ -1,1 +1,3 @@
-# ok-vscode-theme
+# README
+
+**Enjoy!**
